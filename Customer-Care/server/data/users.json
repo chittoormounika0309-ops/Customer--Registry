@@ -141,5 +141,16 @@
     "role": "agent",
     "createdAt": "2026-07-10T17:44:09.945Z",
     "updatedAt": "2026-07-10T17:44:09.945Z"
+  },
+  {
+    "_id": "mock_usr_17839604174684d02a",
+    "firstName": "Sameer",
+    "lastName": "Syed",
+    "username": "Sameer",
+    "email": "sameer12@gmail.com",
+    "password": "$2b$10$HfpcQl9lrWRoYT/a.COP9.o3jAqGrfTwYqdTIG1hYZB9ofQEQNipO",
+    "role": "admin",
+    "createdAt": "2026-07-13T16:33:37.468Z",
+    "updatedAt": "2026-07-13T16:33:37.468Z"
   }
 ]
