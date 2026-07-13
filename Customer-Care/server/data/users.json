@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "mock_usr_admin",
+    "firstName": "System",
+    "lastName": "Admin",
+    "username": "admin",
+    "email": "admin@care.com",
+    "password": "$2b$10$ykUrVO/Cdid3TQSVJ7Xyv.HezOSdZ0eB7vS.85/O0gqaEejg2b1MG",
+    "role": "admin",
+    "createdAt": "2026-07-10T16:15:46.105Z",
+    "updatedAt": "2026-07-10T16:15:46.108Z"
+  },
+  {
+    "_id": "mock_usr_agent",
+    "firstName": "Support",
+    "lastName": "Agent",
+    "username": "agent",
+    "email": "agent@care.com",
+    "password": "$2b$10$V0Pt146gocY/2TPeTOZ1Gu84ijsifT.QtkQwIG2yZfZeh6FDM0Z12",
+    "role": "agent",
+    "createdAt": "2026-07-10T16:15:46.108Z",
+    "updatedAt": "2026-07-10T16:15:46.108Z"
+  },
+  {
+    "_id": "mock_usr_rohan",
+    "firstName": "Rohan",
+    "lastName": "Kumar",
+    "username": "rohan",
+    "email": "rohan@care.com",
+    "password": "$2b$10$H65U5sJHh/hJROlo8SXHx.fZBUNGI/2W3WOh.h3dZA542p.7GLAp.",
+    "role": "user",
+    "createdAt": "2026-07-10T16:15:46.108Z",
+    "updatedAt": "2026-07-10T16:15:46.108Z"
+  },
+  {
+    "_id": "mock_usr_1783700593679ajyjg",
+    "firstName": "sameer",
+    "lastName": "syde",
+    "username": "sameer",
+    "email": "syedsameer3945@gmail.com",
+    "password": "$2b$10$hsIQXhJUUMGqJ/4jT/KRUeWFb18/HEg6Cw/oxY0ZF4VFHBsNSljg2",
+    "role": "admin",
+    "createdAt": "2026-07-10T16:23:13.679Z",
+    "updatedAt": "2026-07-10T16:23:13.679Z"
+  },
+  {
+    "_id": "mock_usr_1783700699636ib07o",
+    "firstName": "harish",
+    "lastName": "ish",
+    "username": "harish",
+    "email": "harish@gmail.com",
+    "password": "$2b$10$aXcZf8QfIii2T9S0TcOyXenX2KmRK8kSBawTQEmnyWrwK7DKC8uO6",
+    "role": "user",
+    "createdAt": "2026-07-10T16:24:59.636Z",
+    "updatedAt": "2026-07-10T16:24:59.636Z"
+  },
+  {
+    "_id": "mock_usr_1783701089663fiwuz",
+    "firstName": "sameer",
+    "lastName": "syde",
+    "username": "syedsameer",
+    "email": "ha@gmail.com",
+    "password": "$2b$10$S3ZLAbs/ojBa.4.XdN0dKuzlcvICgG4O4WtkDxVWiYWmT0WqZHuf.",
+    "role": "agent",
+    "createdAt": "2026-07-10T16:31:29.663Z",
+    "updatedAt": "2026-07-10T16:31:29.663Z"
+  },
+  {
+    "_id": "mock_usr_1783703622869mugxe",
+    "firstName": "joy",
+    "lastName": "boy",
+    "username": "haris",
+    "email": "h@gmail.com",
+    "password": "$2b$10$oQjWdlSz.vwg1NpaamjRYeFSdTcwLvTlSnVNcy7QB9fuMAuKkj.l.",
+    "role": "admin",
+    "createdAt": "2026-07-10T17:13:42.869Z",
+    "updatedAt": "2026-07-10T17:13:42.869Z"
+  },
+  {
+    "_id": "mock_usr_1783704582716kcwkc",
+    "firstName": "sa",
+    "lastName": "hh",
+    "username": "syedsamee",
+    "email": "s@gmail.com",
+    "password": "$2b$10$IHXKiykXoHsdJZS1zuGTJeHcWQMHLQsbzUbRW6vxHApiliW9sBAr.",
+    "role": "admin",
+    "createdAt": "2026-07-10T17:29:42.716Z",
+    "updatedAt": "2026-07-10T17:29:42.716Z"
+  },
+  {
+    "_id": "mock_usr_178370468009212ect",
+    "firstName": "sam",
+    "lastName": "sam",
+    "username": "same",
+    "email": "sameer@gmail.com",
+    "password": "$2b$10$LX3O9Asy2FOHKIttavTOVu3ya0X690rsqClA59ut.P38pHAfZjZci",
+    "role": "agent",
+    "createdAt": "2026-07-10T17:31:20.092Z",
+    "updatedAt": "2026-07-10T17:31:20.092Z"
+  },
+  {
+    "_id": "mock_usr_1783704749034gb4ym",
+    "firstName": "a",
+    "lastName": "r",
+    "username": "raj",
+    "email": "raj@gmail.com",
+    "password": "$2b$10$W1c1rmMkD0/heXPYzcErWuGw6YSAkvLOYKwhboCMdUfzMA.melwEy",
+    "role": "user",
+    "createdAt": "2026-07-10T17:32:29.034Z",
+    "updatedAt": "2026-07-10T17:32:29.034Z"
+  },
+  {
+    "_id": "mock_usr_17837049495476fnhh",
+    "firstName": "sameer",
+    "lastName": "syed",
+    "username": "sameersyed",
+    "email": "sameersyed@gmail.com",
+    "password": "$2b$10$X8dE1BZBH38m8jpi8NqrieHEjqoxw.68nI2XAHHwucl9Yfc6Bqx3m",
+    "role": "admin",
+    "createdAt": "2026-07-10T17:35:49.547Z",
+    "updatedAt": "2026-07-10T17:35:49.547Z"
+  },
+  {
+    "_id": "mock_usr_1783704997004uk08a",
+    "firstName": "s",
+    "lastName": "u",
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "$2b$10$sWorB0Jl8s1.l5ObXImBWudfjzlT2A74tQJzfdOP0RL8CLr1TFxkC",
+    "role": "user",
+    "createdAt": "2026-07-10T17:36:37.004Z",
+    "updatedAt": "2026-07-10T17:36:37.004Z"
+  },
+  {
+    "_id": "mock_usr_1783705449945twaso",
+    "firstName": "a",
+    "lastName": "s",
+    "username": "as",
+    "email": "a@gmail.com",
+    "password": "$2b$10$wACWh0.vSFK35UmIDH.2/.Ge5AvF4cpf4fNkVX24yV.xmwDYl/Evy",
+    "role": "agent",
+    "createdAt": "2026-07-10T17:44:09.945Z",
+    "updatedAt": "2026-07-10T17:44:09.945Z"
+  }
+]

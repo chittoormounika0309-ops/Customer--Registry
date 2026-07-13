@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "67f357eace032a9339246219",
+    "name": "Rohan Kumar",
+    "phone": "9876543210",
+    "email": "rohan@care.com",
+    "details": "Network error",
+    "status": "resolved",
+    "date": "2025-07-04T12:00:00.000Z",
+    "createdBy": "mock_usr_rohan",
+    "assignedTo": "mock_usr_1783700593679ajyjg",
+    "createdAt": "2025-07-04T12:00:00.000Z",
+    "updatedAt": "2026-07-10T16:28:16.732Z"
+  },
+  {
+    "_id": "mock_comp_17837007242598opma",
+    "name": "harish ish",
+    "phone": "95503048",
+    "email": "harish@gmail.com",
+    "details": "network isuue",
+    "status": "resolved",
+    "date": "2026-07-10T16:25:24.259Z",
+    "createdBy": "mock_usr_1783700699636ib07o",
+    "assignedTo": "mock_usr_1783703622869mugxe",
+    "createdAt": "2026-07-10T16:25:24.259Z",
+    "updatedAt": "2026-07-10T17:44:25.092Z"
+  },
+  {
+    "_id": "mock_comp_17837047738840g9nh",
+    "name": "a r",
+    "phone": "9912478561",
+    "email": "raj@gmail.com",
+    "details": "olgiugut6dv",
+    "status": "resolved",
+    "date": "2026-07-10T17:32:53.884Z",
+    "createdBy": "mock_usr_1783704749034gb4ym",
+    "assignedTo": "mock_usr_agent",
+    "createdAt": "2026-07-10T17:32:53.884Z",
+    "updatedAt": "2026-07-10T17:34:10.716Z"
+  },
+  {
+    "_id": "mock_comp_17837050177852jzh8",
+    "name": "s u",
+    "phone": "8546464",
+    "email": "user@gmail.com",
+    "details": "dcawef",
+    "status": "in progress",
+    "date": "2026-07-10T17:36:57.785Z",
+    "createdBy": "mock_usr_1783704997004uk08a",
+    "assignedTo": "mock_usr_agent",
+    "createdAt": "2026-07-10T17:36:57.785Z",
+    "updatedAt": "2026-07-10T17:47:43.903Z"
+  },
+  {
+    "_id": "mock_comp_1783705730627e4rk0",
+    "name": "harish ish",
+    "phone": "6846561",
+    "email": "harish@gmail.com",
+    "details": "jckcktukckyt",
+    "status": "pending",
+    "date": "2026-07-10T17:48:50.627Z",
+    "createdBy": "mock_usr_1783700699636ib07o",
+    "assignedTo": null,
+    "createdAt": "2026-07-10T17:48:50.628Z",
+    "updatedAt": "2026-07-10T17:48:50.628Z"
+  }
+]

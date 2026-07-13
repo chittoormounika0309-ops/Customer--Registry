@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "mock_msg_1",
+    "sender": "mock_usr_rohan",
+    "receiver": "mock_usr_agent",
+    "content": "what is the issue",
+    "timestamp": "2025-03-25T11:18:00.000Z",
+    "complaintId": "67f357eace032a9339246219",
+    "createdAt": "2025-03-25T11:18:00.000Z",
+    "updatedAt": "2025-03-25T11:18:00.000Z"
+  },
+  {
+    "_id": "mock_msg_2",
+    "sender": "mock_usr_rohan",
+    "receiver": "mock_usr_agent",
+    "content": "what is the issue",
+    "timestamp": "2025-04-07T10:17:00.000Z",
+    "complaintId": "67f357eace032a9339246219",
+    "createdAt": "2025-04-07T10:17:00.000Z",
+    "updatedAt": "2025-04-07T10:17:00.000Z"
+  },
+  {
+    "_id": "mock_msg_1783701036428dcjol",
+    "sender": "mock_usr_1783700593679ajyjg",
+    "receiver": "mock_usr_rohan",
+    "content": "what is the isuues with",
+    "complaintId": null,
+    "timestamp": "2026-07-10T16:30:36.428Z",
+    "createdAt": "2026-07-10T16:30:36.428Z",
+    "updatedAt": "2026-07-10T16:30:36.428Z"
+  }
+]
